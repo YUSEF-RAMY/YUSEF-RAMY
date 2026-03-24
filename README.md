@@ -15,6 +15,18 @@ I specialize in building scalable backend systems using Laravel, designing RESTf
 
 ---
 
+## 📊 GitHub Stats
+
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUSEF-RAMY&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YUSEF-RAMY&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YUSEF-RAMY&theme=radical)
+
 ## ⚒️ Tech Stack
 
 **Backend:** Laravel, PHP, REST APIs, Sanctum, JWT
