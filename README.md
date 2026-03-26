@@ -135,10 +135,10 @@ Full Laravel-based system:
 ## 📫 Contact
 
 * 📧 Email: [yuseframy14@gmail.com](mailto:yuseframy14@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/yusef-ramy-ba178625b
+* 💼 LinkedIn: www.linkedin.com/in/yusef-ramy
 
 ---
 
 <p align="center">
-  ⭐ Open to Backend / Laravel / DevOps Opportunities
+  ⭐ Open to Backend (Laravel) / DevOps Opportunities
 </p>
