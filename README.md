@@ -1,163 +1,107 @@
-<h1 align="center">Hey 👋, I'm Yusef Ramy</h1>
-<h3 align="center">Laravel Backend Engineer | Scalable Systems | DevOps-Oriented</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:000000&height=280&section=header&text=Yusef%20Ramy&fontSize=90&animation=fadeIn" width="100%" />
+  
+  <br>
 
-<p align="center">
-  🚀 Backend Specialist &nbsp;•&nbsp; ⚙️ SaaS Architect &nbsp;•&nbsp; ☁️ DevOps Engineer (In Progress)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+Backend+Engineer;SaaS+Architect+%26+Consultant;DevOps+%26+Cloud+Enthusiast;Senior+CS+Student" alt="Typing SVG" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-Academy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-Pro-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  </p>
+</div>
+
+---
+
+## 🧐 About Me
+
+I am a **Senior Computer Science Student** and a **Backend Specialist** focused on building high-performance systems. My philosophy revolves around **Clean Code**, **Design Patterns**, and **Scalable Infrastructure**.
+
+* 👨‍💻 Currently architecting complex SaaS solutions using **Laravel**.
+* 🛡️ Obsessed with **Security**, **JWT**, and **OAUTH2** implementations.
+* 🐳 Transitioning towards a **Mid-level DevOps Engineer** with expertise in Containerization.
+* 🏛️ **Team Leader** in the Digital Egypt Pioneers Initiative (DEPI).
+
+---
+
+## 🛠️ My Technical Arsenal (Hover to Explore)
+
+### 🚀 Core Backend & Architecture
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,postman,regex,git,github" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-Expert-red?style=flat&logo=laravel">
-  <img src="https://img.shields.io/badge/PHP-Advanced-blue?style=flat&logo=php">
-  <img src="https://img.shields.io/badge/Docker-Production%20Ready-blue?style=flat&logo=docker">
-  <img src="https://img.shields.io/badge/Kubernetes-Basics-326ce5?style=flat&logo=kubernetes">
-  <img src="https://img.shields.io/badge/AWS-Academy-orange?style=flat&logo=amazonaws">
-  <img src="https://img.shields.io/badge/Linux-ParrotOS-black?style=flat&logo=linux">
+> **Advanced Skills:** Action/Service Pattern • SOLID Principles • Repository Pattern • RESTful API Design • Real-time (WebSockets/Pusher).
+
+### ⚙️ DevOps, Cloud & Infrastructure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,jenkins,bash" />
+  </a>
 </p>
 
----
-
-## 🧠 About Me
-
-I'm a Backend Engineer specialized in building **scalable, production-ready systems** using Laravel.
-
-* 🎓 Senior Computer Science Student (FCI)
-* 💻 Backend-focused (Laravel / PHP)
-* 🏗️ Building **SaaS platforms & RESTful APIs**
-* ⚡ Focused on **performance, clean architecture & maintainability**
-* ☁️ Working with **Docker, Kubernetes & CI/CD pipelines**
-* 🤖 Interested in **AI-powered systems & automation**
-
----
-
-## ⚒️ Tech Stack
-
-```txt
-Backend     → Laravel, PHP, REST APIs, Sanctum, JWT, Action/Service Pattern
-Frontend    → React (in progress), Livewire, Tailwind
-Database    → MySQL, Redis
-DevOps      → Docker, Kubernetes, Minikube, CI/CD
-Cloud       → AWS (Academy Graduate)
-Tools       → Git, GitHub, Postman, Linux (Parrot OS)
-```
-
----
-
-## 🚀 Featured Work
-
-### 🏊 Olympic Village Management System (Private)
-
-A **real-world SaaS platform** built for Mansoura University's Olympic Village.
-
-**Key Highlights:**
-
-* Multi-role system (Admins / Staff / Users)
-* Full onboarding & registration workflows
-* Clean modular architecture (Service / Action pattern)
-* Secure document & data handling
-* Designed with scalability in mind
-
-> ⚠️ Private project — available for technical discussion (architecture, scaling, decisions)
-
----
-
-### 🤖 Ocular-Based Biometric Identification System (Graduation Project)
-
-A **biometric system** powered by AI:
-
-* Laravel API (Backend)
-* Python ML Model (Eye recognition)
-* Mobile App integration (Flutter)
-
-**Focus:**
-
-* Real-time processing
-* System integration between multiple technologies
-* Applied AI in real-world use case
-
-👉 https://github.com/YUSEF-RAMY
-
----
-
-### 🛒 E-commerce Platform
-
-Full Laravel-based system:
-
-* Product & inventory management
-* Cart & checkout flow
-* Admin dashboard
-
-👉 https://github.com/YUSEF-RAMY
-
----
-
-### 📚 Book Reservation System (ITI Project)
-
-* Built using Laravel & PHP
-* Focus on clean backend structure & database design
-* عملي خلال تدريب ITI
-
----
-
-## 🧩 Leadership & Experience
-
-* 👨‍💼 **Team Leader** — Digital Egypt Pioneers Initiative (DEPI) – DevOps Track
-* 🏛️ Participated in government-backed tech initiative
-* 👥 Led team collaboration & technical direction
-
----
-
-## 🏆 Certifications
-
-* 🎓 NTI / Huawei International Certificate
-* ☁️ AWS Academy Graduate (Cloud Foundations & Architecture)
-
----
-
-## 🧠 What I Bring
-
-* Ability to design **scalable backend systems from scratch**
-* Strong understanding of **system design & API architecture**
-* Practical DevOps knowledge (**Docker, CI/CD, Kubernetes basics**)
-* Experience integrating **AI systems with backend services**
-* سريع التعلم وبتحرك بسرعة ناحية **Mid-Level Backend + DevOps Engineer**
-
----
-
-## 📈 Current Focus
-
-* 🧠 Advanced System Design (scalability, high-load systems)
-* 🐳 Production-grade Docker setups
-* ⚙️ CI/CD pipelines & DevOps workflows
-* ☁️ Deep diving into AWS & cloud architecture
-
----
-
-## 📫 Contact
-
-* 📧 Email: [yuseframy14@gmail.com](mailto:yuseframy14@gmail.com)
-* 💼 LinkedIn: www.linkedin.com/in/yusef-ramy
-
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2" width="100%"/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=400&lines=Watch+the+snake+eat+your+commits..." />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YUSEF-RAMY/YUSEF-RAMY/output/snake-dark.svg" width="100%" />
+### 🎨 Frontend & UI Integration
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,bootstrap" />
+  </a>
 </p>
 
 ---
 
+## 🏆 Certifications & Professional Milestone
+| Training | Organization | Status | Focus |
+| :--- | :--- | :--- | :--- |
+| **AWS Academy** | Amazon Web Services | ✅ Graduate | Cloud Arch & Security |
+| **DevOps Track** | DEPI (Gov. Initiative) | ✅ Lead Graduate | CI/CD & Orchestration |
+| **Huawei Int.** | NTI / Huawei | ✅ Certified | Infrastructure & Networking |
+| **Backend Specialization** | ITI Training | ✅ Graduate | PHP/Laravel Advanced |
+| **NTI Tech Training** | National Telecomm Inst. | ✅ Certified | Core Engineering |
+
+---
+
+## 🚀 Featured Engineering Projects
+
+### 🏊 [SaaS] Olympic Village Management System
+> **Technical Decision:** Implemented the **Action/Service pattern** to decouple business logic, making the system 100% testable and scalable for Mansoura University's high-traffic requirements.
+> - **Key Stack:** Laravel 11, Livewire, MySQL, Redis.
+
+### 🤖 Ocular-Based Biometric AI System (GP)
+> **Complex Integration:** Built a robust API Bridge between a **Python-based AI Core** and a **Flutter Mobile App**, ensuring sub-500ms response times for biometric recognition.
+
+---
+
+## 📊 Development Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YUSEF-RAMY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YUSEF-RAMY&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YUSEF-RAMY&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YUSEF-RAMY&theme=tokyonight" width="48%" />
+</div>
+
+---
+
+## 📫 Let's Connect & Scale
 <p align="center">
-  ⭐ Open to Backend (Laravel) / DevOps Opportunities
+  <a href="https://www.linkedin.com/in/yusef-ramy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yuseframy14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/YUSEF-RAMY"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
+<h3 align="center">🐍 Coding Activity Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YUSEF-RAMY/YUSEF-RAMY/output/snake-dark.svg" width="90%" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF2D20&height=120&section=footer"/>
