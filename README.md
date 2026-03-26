@@ -16,6 +16,14 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=24&center=true&vCenter=true&width=500&lines=Backend+Engineer;Laravel+Specialist;Scalable+Systems;DevOps+Journey" />
+</p>
+
+---
+
 ## 🧠 About Me
 
 I'm a Backend Engineer specialized in building **scalable, production-ready systems** using Laravel.
@@ -142,3 +150,13 @@ Full Laravel-based system:
 <p align="center">
   ⭐ Open to Backend (Laravel) / DevOps Opportunities
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YUSEF-RAMY/YUSEF-RAMY/output/github-contribution-grid-snake.svg" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
