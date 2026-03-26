@@ -140,7 +140,7 @@ Full Laravel-based system:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2" width="100%"/>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -152,10 +152,12 @@ Full Laravel-based system:
   <img src="https://raw.githubusercontent.com/YUSEF-RAMY/YUSEF-RAMY/output/snake-dark.svg" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
 ---
-
 
 <p align="center">
   ⭐ Open to Backend (Laravel) / DevOps Opportunities
 </p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
