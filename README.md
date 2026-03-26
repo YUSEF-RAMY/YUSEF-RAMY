@@ -16,14 +16,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=header"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=24&center=true&vCenter=true&width=500&lines=Backend+Engineer;Laravel+Specialist;Scalable+Systems;DevOps+Journey" />
-</p>
-
----
-
 ## 🧠 About Me
 
 I'm a Backend Engineer specialized in building **scalable, production-ready systems** using Laravel.
@@ -145,18 +137,25 @@ Full Laravel-based system:
 * 📧 Email: [yuseframy14@gmail.com](mailto:yuseframy14@gmail.com)
 * 💼 LinkedIn: www.linkedin.com/in/yusef-ramy
 
+
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=400&lines=Watch+the+snake+eat+your+commits..." />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YUSEF-RAMY/YUSEF-RAMY/output/snake-dark.svg" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
+---
+
 
 <p align="center">
   ⭐ Open to Backend (Laravel) / DevOps Opportunities
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YUSEF-RAMY/YUSEF-RAMY/output/github-contribution-grid-snake.svg" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
