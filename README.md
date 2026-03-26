@@ -1,55 +1,78 @@
-# 👋 Hi, I'm Yusef Ramy
+<h1 align="center">Hey 👋, I'm Yusef Ramy</h1>
+<h3 align="center">Laravel Backend Engineer | Scalable Systems | DevOps-Oriented</h3>
 
-🚀 Laravel Backend Engineer | REST APIs | SaaS | DevOps
+<p align="center">
+  🚀 Backend Specialist &nbsp;•&nbsp; ⚙️ SaaS Architect &nbsp;•&nbsp; ☁️ DevOps Engineer (In Progress)
+</p>
 
-I specialize in building scalable backend systems using Laravel, designing RESTful APIs, and integrating modern technologies like AI and cloud services. I focus on performance, clean architecture, and delivering real-world solutions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-Expert-red?style=flat&logo=laravel">
+  <img src="https://img.shields.io/badge/PHP-Advanced-blue?style=flat&logo=php">
+  <img src="https://img.shields.io/badge/Docker-Production%20Ready-blue?style=flat&logo=docker">
+  <img src="https://img.shields.io/badge/Kubernetes-Basics-326ce5?style=flat&logo=kubernetes">
+  <img src="https://img.shields.io/badge/AWS-Academy-orange?style=flat&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Linux-ParrotOS-black?style=flat&logo=linux">
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 💻 Backend-focused (Laravel & PHP)
-* ⚙️ Experienced in building SaaS systems and API architectures
-* ☁️ Familiar with AWS, Docker, and CI/CD pipelines
-* 🤖 Interested in AI integrations and automation systems
+I'm a Backend Engineer specialized in building **scalable, production-ready systems** using Laravel.
+
+* 🎓 Senior Computer Science Student (FCI)
+* 💻 Backend-focused (Laravel / PHP)
+* 🏗️ Building **SaaS platforms & RESTful APIs**
+* ⚡ Focused on **performance, clean architecture & maintainability**
+* ☁️ Working with **Docker, Kubernetes & CI/CD pipelines**
+* 🤖 Interested in **AI-powered systems & automation**
 
 ---
-
-## 📊 GitHub Stats
-
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUSEF-RAMY&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YUSEF-RAMY&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YUSEF-RAMY&theme=radical)
 
 ## ⚒️ Tech Stack
 
-**Backend:** Laravel, PHP, REST APIs, Sanctum, JWT
-**Frontend:** Livewire, React, Tailwind CSS
-**Database:** MySQL, Redis
-**DevOps:** Docker, AWS (EC2, S3), CI/CD, Linux
-**Tools:** Git, Postman, ngrok
+```txt
+Backend     → Laravel, PHP, REST APIs, Sanctum, JWT, Action/Service Pattern
+Frontend    → React (in progress), Livewire, Tailwind
+Database    → MySQL, Redis
+DevOps      → Docker, Kubernetes, Minikube, CI/CD
+Cloud       → AWS (Academy Graduate)
+Tools       → Git, GitHub, Postman, Linux (Parrot OS)
+```
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Work
 
-### 🏊 Swimming Pool Management System (SaaS)
+### 🏊 Olympic Village Management System (Private)
 
-A scalable SaaS platform with multi-role authentication, onboarding workflows, and secure document management.
+A **real-world SaaS platform** built for Mansoura University's Olympic Village.
 
-👉 https://github.com/YUSEF-RAMY
+**Key Highlights:**
+
+* Multi-role system (Admins / Staff / Users)
+* Full onboarding & registration workflows
+* Clean modular architecture (Service / Action pattern)
+* Secure document & data handling
+* Designed with scalability in mind
+
+> ⚠️ Private project — available for technical discussion (architecture, scaling, decisions)
 
 ---
 
-### 🤖 Eye Recognition System
+### 🤖 Ocular-Based Biometric Identification System (Graduation Project)
 
-AI-integrated system connecting Laravel backend with Python models and Flutter mobile app.
+A **biometric system** powered by AI:
+
+* Laravel API (Backend)
+* Python ML Model (Eye recognition)
+* Mobile App integration (Flutter)
+
+**Focus:**
+
+* Real-time processing
+* System integration between multiple technologies
+* Applied AI in real-world use case
 
 👉 https://github.com/YUSEF-RAMY
 
@@ -57,25 +80,65 @@ AI-integrated system connecting Laravel backend with Python models and Flutter m
 
 ### 🛒 E-commerce Platform
 
-Full Laravel-based e-commerce system with product management, cart, and admin dashboard.
+Full Laravel-based system:
+
+* Product & inventory management
+* Cart & checkout flow
+* Admin dashboard
 
 👉 https://github.com/YUSEF-RAMY
 
 ---
 
+### 📚 Book Reservation System (ITI Project)
+
+* Built using Laravel & PHP
+* Focus on clean backend structure & database design
+* عملي خلال تدريب ITI
+
+---
+
+## 🧩 Leadership & Experience
+
+* 👨‍💼 **Team Leader** — Digital Egypt Pioneers Initiative (DEPI) – DevOps Track
+* 🏛️ Participated in government-backed tech initiative
+* 👥 Led team collaboration & technical direction
+
+---
+
+## 🏆 Certifications
+
+* 🎓 NTI / Huawei International Certificate
+* ☁️ AWS Academy Graduate (Cloud Foundations & Architecture)
+
+---
+
+## 🧠 What I Bring
+
+* Ability to design **scalable backend systems from scratch**
+* Strong understanding of **system design & API architecture**
+* Practical DevOps knowledge (**Docker, CI/CD, Kubernetes basics**)
+* Experience integrating **AI systems with backend services**
+* سريع التعلم وبتحرك بسرعة ناحية **Mid-Level Backend + DevOps Engineer**
+
+---
+
 ## 📈 Current Focus
 
-* Improving system design and scalability
-* Building production-ready Dockerized applications
-* Strengthening DevOps skills
+* 🧠 Advanced System Design (scalability, high-load systems)
+* 🐳 Production-grade Docker setups
+* ⚙️ CI/CD pipelines & DevOps workflows
+* ☁️ Deep diving into AWS & cloud architecture
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-* Email: [yuseframy14@gmail.com](mailto:yuseframy14@gmail.com)
-* LinkedIn: https://linkedin.com/in/yusef-ramy-ba178625b
+* 📧 Email: [yuseframy14@gmail.com](mailto:yuseframy14@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/yusef-ramy-ba178625b
 
 ---
 
-⭐ Always open to opportunities and collaborations!
+<p align="center">
+  ⭐ Open to Backend / Laravel / DevOps Opportunities
+</p>
