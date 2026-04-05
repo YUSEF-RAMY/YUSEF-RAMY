@@ -1,20 +1,38 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:000000&height=280&section=header&text=Yusef%20Ramy&fontSize=90&animation=fadeIn" width="100%" />
-  
+
   <br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+Backend+Engineer;SaaS+Architect+%26+Consultant;DevOps+%26+Cloud+Enthusiast;Senior+CS+Student" alt="Typing SVG" />
 
-  <p align="center">
+  <br><br>
+
+  <div align="center">
+  <p>
     <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-Academy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-Pro-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </p>
+
+  <br>
+
+  <p>
+    <a href="https://drive.google.com/file/d/1AEoIHD-3yHfJl6KeYab6Dd-DRimk3jNF/view?pli=1" target="_blank">
+      <img src="https://img.shields.io/badge/_View_My_CV-red?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" title="Click to view CV">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://yusef-ramy.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/_My_Portfolio-6f42c1?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" title="Click to open Portfolio">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://drive.google.com/drive/folders/1Iw2ivKKLfaI8nxfJbwk4nHke4pZH5MlU?usp=drive_link" target="_blank">
+      <img src="https://img.shields.io/badge/_My_Certificates-FFA500?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Certificates" title="Click to open Certificates">
+    </a>
+  </p>
 </div>
 
 ---
-
 ## 🧐 About Me
 
 I am a **Senior Computer Science Student** and a **Backend Specialist** focused on building high-performance systems. My philosophy revolves around **Clean Code**, **Design Patterns**, and **Scalable Infrastructure**.
