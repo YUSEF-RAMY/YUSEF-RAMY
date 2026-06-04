@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # بيحدث الإحصائيات تلقائياً كل 12 ساعة
   schedule: [{cron: "0 */12 * * *"}]
-  # بيسمح لك تشغله يدوي بأي وقت
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -13,14 +11,19 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # التوكن الافتراضي لتشغيل الأكشن
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # الإعدادات وتصفية لغة Jupyter
           user: YUSEF-RAMY
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Africa/Cairo
           
-          # هنا بنقول للأكشن يتجاهل الجوبيتر تماماً وميحسبوش
+          # هنا بنختار الحاجات القوية بس (الهيدر، النشاط، والـ ليدر بورد الأخضر)
+          base: header, activity, community
+          
+          # إخفاء الـ الأصفار والحاجات الضعيفة من قسم الـ activity
+          base_activity: commits, pullrequests
+          
+          # إخفاء الـ الأصفار من قسم الـ community (هنظهر المتابعين والمستودعات المساهم فيها بس)
+          base_community: followers, repositories
+          
+          # تجاهل لغات الجوبيتر والـ CSS عشان يفضل البروفايل مقتصر على لغاتك الأساسية
           ignored_languages: jupyter notebook, html, css
