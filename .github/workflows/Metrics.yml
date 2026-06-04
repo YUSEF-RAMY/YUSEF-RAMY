@@ -16,14 +16,16 @@ jobs:
           template: classic
           config_timezone: Africa/Cairo
           
-          # هنا بنعرض فقط الترويسة الأساسية والـ ليدر بورد الأخضر
+          # بنعرض الهيدر الأساسي والـ ليدر بورد الأخضر فقط
           base: header
+          
+          # تفعيل ميزة إظهار عدد الـ Stars (النجوم) بشكل رايق
+          plugin_stars: yes
+          plugin_stars_limit: 4
 
-          # تفعيل إضافة الأسطر والإحصائيات المفصلة الذكية
+          # تفعيل إضافة الأسطر المكتوبة (الـ Commits الذكية)
           plugin_lines: yes
-          
-          # إظهار الإيرادات والمتابعين والنجوم بشكل مقتضب جداً ونظيف
-          base_repositories: starred
-          
-          # تجاهل لغات الجوبيتر تماماً من أي حسابات فرعية
-          ignored_languages: jupyter notebook, html, css
+
+          # تفعيل فلتر اللغات عشان نخفي جوبيتر و HTML و CSS تماماً
+          plugin_languages: yes
+          plugin_languages_ignored: jupyter notebook, html, css
