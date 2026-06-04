@@ -16,17 +16,14 @@ jobs:
           template: classic
           config_timezone: Africa/Cairo
           
-          # ضفنا هنا repositories عشان يقدر يقرأ الـ Stars بتاعتك
-          base: header, activity, community, repositories
+          # هنا بنعرض فقط الترويسة الأساسية والـ ليدر بورد الأخضر
+          base: header
+
+          # تفعيل إضافة الأسطر والإحصائيات المفصلة الذكية
+          plugin_lines: yes
           
-          # بنحدد إيه اللي يظهر في الأنشطة (الـ Commits والـ Pull Requests بس)
-          base_activity: commits, pullrequests
+          # إظهار الإيرادات والمتابعين والنجوم بشكل مقتضب جداً ونظيف
+          base_repositories: starred
           
-          # بنحدد إيه اللي يظهر في الكوميونيتي (المتابعين بس)
-          base_community: followers
-          
-          # بنحدد إيه اللي يظهر من المستودعات (الـ Stars والـ Repositories اللي أنت تملكها بس)
-          base_repositories: starred, featured
-          
-          # تجاهل لغات الجوبيتر والـ CSS والـ HTML عشان يفضل البروفايل رايق ومقتصر على لغاتك الأساسية
+          # تجاهل لغات الجوبيتر تماماً من أي حسابات فرعية
           ignored_languages: jupyter notebook, html, css
