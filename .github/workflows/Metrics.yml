@@ -16,16 +16,17 @@ jobs:
           template: classic
           config_timezone: Africa/Cairo
           
-          # بنعرض الهيدر الأساسي والـ ليدر بورد الأخضر فقط
+          # بنعرض فقط الترويسة الأساسية (اسمك ومتابعيك)
           base: header
-          
-          # تفعيل ميزة إظهار عدد الـ Stars (النجوم) بشكل رايق
-          plugin_stars: yes
-          plugin_stars_limit: 4
 
-          # تفعيل إضافة الأسطر المكتوبة (الـ Commits الذكية)
+          # 1️⃣ تفعيل إضافة الاستمرارية والـ Streak (التقويم السنوي الأخضر اللي بيبين كل يوم عملت فيه إيه)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # بيعرضلك إحصائيات سنة كاملة من الاستمرار والكود
+
+          # 2️⃣ تفعيل إضافة الأسطر المكتوبة (عشان تبين حجم الكود الجامد اللي بتكتبه)
           plugin_lines: yes
 
-          # تفعيل فلتر اللغات عشان نخفي جوبيتر و HTML و CSS تماماً
+          # 3️⃣ إظهار لغات البرمجة القوية بتاعتك فقط
           plugin_languages: yes
-          plugin_languages_ignored: jupyter notebook, html, css
+          plugin_languages_ignored: jupyter notebook, html, css # حذف جوبيتر والـ ويب الأساسي تماماً
+          plugin_languages_details: bytes-size, percentage # بيبين النسبة المئوية لكل لغة وحجمها
