@@ -95,14 +95,7 @@ I am a **Senior Computer Science Student** and a **Backend Specialist** focused 
 
 ## 📊 Development Metrics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YUSEF-RAMY&theme=tokyonight&hide_border=true" width="50%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YUSEF-RAMY&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YUSEF-RAMY&theme=tokyonight" width="48%" />
+  <img src="https://raw.githubusercontent.com/YUSEF-RAMY/YUSEF-RAMY/main/github-metrics.svg" width="100%" />
 </div>
 
 ---
